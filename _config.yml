@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Berry Battle # the website title (if blank, full name will be used instead)
-first_name: Aven
+first_name:
 middle_name:
-last_name: Arlington
+last_name:
 email: aven.arlington@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, game simulator for programming competitions utilizing AI powered Raspberry Pi devices.
