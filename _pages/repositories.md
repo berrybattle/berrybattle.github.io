@@ -4,7 +4,7 @@ permalink: /repositories/
 title: GitHub Repositories
 description: The source code for the Berry Battle project
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 
